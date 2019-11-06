@@ -5,6 +5,32 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectExtentionChrome", "ConnectExtentionChrome\ConnectExtentionChrome.csproj", "{F02D96C3-5E17-41A4-9973-3CE72073FA34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExtention", "..\TestExtention\TestExtention\TestExtention.csproj", "{9D141603-1A9D-4EEC-82D8-C473EA436839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTest", "ConsoleAppTest\ConsoleAppTest.csproj", "{EF6E8066-FAC1-4E75-B9E8-6B48D5E80DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleTranslateLib.Text", "GoogleTranslateLib.Text\GoogleTranslateLib.Text.csproj", "{1A314898-A718-4EC4-833D-1C30DA66C2BD}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "codedemo2019.github.io", "C:\Users\DELL\Desktop\codedemo2019.github.io\", "{91112CA8-ECA7-4BC8-80BA-A202E0EE2E9E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59772"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Users\DELL\Desktop\codedemo2019.github.io\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59772\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59772"
+		Release.AspNetCompiler.PhysicalPath = "C:\Users\DELL\Desktop\codedemo2019.github.io\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59772\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59772"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +41,22 @@ Global
 		{F02D96C3-5E17-41A4-9973-3CE72073FA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F02D96C3-5E17-41A4-9973-3CE72073FA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F02D96C3-5E17-41A4-9973-3CE72073FA34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D141603-1A9D-4EEC-82D8-C473EA436839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D141603-1A9D-4EEC-82D8-C473EA436839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D141603-1A9D-4EEC-82D8-C473EA436839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D141603-1A9D-4EEC-82D8-C473EA436839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6E8066-FAC1-4E75-B9E8-6B48D5E80DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6E8066-FAC1-4E75-B9E8-6B48D5E80DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6E8066-FAC1-4E75-B9E8-6B48D5E80DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6E8066-FAC1-4E75-B9E8-6B48D5E80DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A314898-A718-4EC4-833D-1C30DA66C2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A314898-A718-4EC4-833D-1C30DA66C2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A314898-A718-4EC4-833D-1C30DA66C2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A314898-A718-4EC4-833D-1C30DA66C2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91112CA8-ECA7-4BC8-80BA-A202E0EE2E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91112CA8-ECA7-4BC8-80BA-A202E0EE2E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91112CA8-ECA7-4BC8-80BA-A202E0EE2E9E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{91112CA8-ECA7-4BC8-80BA-A202E0EE2E9E}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
